@@ -1,0 +1,66 @@
+<div class="container mt-2">
+    <div class="container row text-center">
+        <div style="" class="p-4 col-3 c ">
+            <a (click)="filter('')">
+                <img style="height: 150px; width: 75%;" class="w-100 rounded-circle"
+                    src="https://i.postimg.cc/yYGFphB4/breathtaking-online-shopping-statistics-you-never-knew.png" alt="">
+                <h4 class="pt-2">View All</h4>
+            </a>
+        </div>
+        <div class="p-4 col-3 c ">
+            <a (click)="filter(3)">
+                <img style="height: 150px; width: 75%;" class="w-100 rounded-circle"
+                    src="https://i.postimg.cc/d1SvXs7D/61yz-Gwn-Azb-L-SX679.jpg" alt="">
+                <h4 class="pt-2">Smart Watch</h4>
+            </a>
+        </div>
+
+
+        <div class="p-4 col-3 c ">
+            <a (click)="filter(1)">
+                <img style="height: 150px; width: 75%;" class="w-100 rounded-circle" src="https://i.postimg.cc/26PjyjCM/51r05b-Ntxy-L-SL1080-600x600.jpg"
+                    alt="">
+                <h4 class="pt-2">Home Appliances</h4>
+            </a>
+        </div>
+
+        <div class="p-4 col-3 c ">
+            <a (click)="filter(2)">
+                <img style="height: 150px; width: 75%;" class="w-100 rounded-circle"
+                    src="https://i.postimg.cc/jjHLG7K2/images-1.jpg" alt="">
+                <h4 class="pt-2">Smart Phone</h4>
+            </a>
+        </div>
+
+    </div>
+</div>
+<!-- Section-->
+<section class="py-5">
+    <div class="container px-4 px-lg-5 mt-5">
+        <div class="row gx-4 gx-lg-5 row-cols-2 row-cols-md-3 row-cols-xl-4 justify-content-center">
+            <div *ngFor="let i of filterProducts | filter:searchKey:'productName'" class="col mb-5">
+                <div  class="card h-100 c" >
+                    <!-- Product image-->
+                    <div class="badge  text-white position-absolute"
+                        style="top: 0.5rem; right: 0.5rem ;background-color: darkgreen;">Sale</div>
+                    <img style="height: 280px;" class="card-img-top" src="{{i.productImage}}" alt="..." />
+                    <!-- Product details-->
+                    <div class="card-body p-4">
+                        <div class="text-center">
+                            <!-- Product name-->
+                            <h5 class="fw-bolder">{{i.productName}}</h5>
+                            <!-- Product price-->
+                            {{i.price}}
+                        </div>
+                    </div>
+
+                    <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
+                        <div class="text-center"><a class="btn btn-outline-secondary mt-auto"
+                                href="products/view_product/{{i.id}}">View options</a></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+</section>

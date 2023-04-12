@@ -1,0 +1,21 @@
+h1{
+    color: aquamarine;
+}
+ button{
+    width: 200px;
+    transition: .2 ease-in;
+ }
+ button:hover{
+    transform: scale(1.1);
+    background-color: rgb(133, 173, 173);
+ }
+ form{
+    transition: .2 ease-in;
+    background-color: rgb(164, 192, 192);
+
+ }
+ form:hover{
+    transform: scale(1.1);
+    background-color: rgb(48, 61, 61);
+    
+ }

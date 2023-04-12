@@ -1,0 +1,219 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "productName": "boat watch",
+      "categoryId": "2",
+      "description": "The boAt Wave BeatCall is the next companion for your fitness transformation and is here to make life easy. ",
+      "price": "2500",
+      "isAvailable": "yes",
+      "productImage": "https://i.postimg.cc/NFkkr3zr/images-1.jpg",
+      "rating": "3.8",
+      "review": "best one in market",
+      "vendorName": "Ressellers",
+      "warrenty": "2 years"
+    },
+    {
+      "id": 3,
+      "productName": "Firebolt",
+      "categoryId": "1",
+      "description": "",
+      "price": "",
+      "isAvailable": "",
+      "productImage": "https://i.postimg.cc/Vv637FPv/images-2.jpg",
+      "rating": "",
+      "review": "",
+      "vendorName": "",
+      "warrenty": ""
+    },
+    {
+      "id": 4,
+      "productName": "Noise",
+      "categoryId": "1",
+      "description": "Noise ColorFit Caliber Go with 1.69 inch HD Display, 40 Sports Modes, 150+ Watch Faces Smartwatch  (Black Strap, Regular)",
+      "price": "2000",
+      "isAvailable": "Yes",
+      "productImage": "https://i.postimg.cc/Z5TDjcPS/inbase-urban-fit-s-1664703669.jpg",
+      "rating": "3.8",
+      "review": "Best of the brand like Noise ",
+      "vendorName": "SVPeripherals",
+      "warrenty": "1 Year"
+    },
+    {
+      "id": 5,
+      "productName": "boat",
+      "categoryId": "2",
+      "description": "boAt Storm call 1.69 inch HD display with bluetooth calling and 550 nits brightness Smartwatch  (Green Strap, Free Size)",
+      "price": "3000",
+      "isAvailable": "Yes",
+      "productImage": "https://i.postimg.cc/02ZC5qST/images.jpg",
+      "rating": "4.0",
+      "review": "The boAt Storm Call is the perfect companion for your fitness transformation",
+      "vendorName": "SVPeripherals",
+      "warrenty": "1 Year"
+    },
+    {
+      "id": 6,
+      "productName": "Samsung Watch2",
+      "categoryId": "1",
+      "description": "Noise ColorFit Caliber Go with 1.69 inch HD Display, 40 Sports Modes, 150+ Watch Faces Smartwatch  (Black Strap, Regular)",
+      "price": "2000",
+      "isAvailable": "Yes",
+      "productImage": "https://i.postimg.cc/Z5TDjcPS/inbase-urban-fit-s-1664703669.jpg",
+      "rating": "3.8",
+      "review": "Best of the brand like Noise ",
+      "vendorName": "SVPeripherals",
+      "warrenty": "1 Year"
+    },
+    {
+      "id": 7,
+      "productName": "Realme Ultra",
+      "categoryId": "1",
+      "description": "Noise ColorFit Caliber Go with 1.69 inch HD Display, 40 Sports Modes, 150+ Watch Faces Smartwatch  (Black Strap, Regular)",
+      "price": "2000",
+      "isAvailable": "Yes",
+      "productImage": "https://i.postimg.cc/Z5TDjcPS/inbase-urban-fit-s-1664703669.jpg",
+      "rating": "3.8",
+      "review": "Best of the brand like Noise ",
+      "vendorName": "SVPeripherals",
+      "warrenty": "1 Year"
+    },
+    {
+      "id": 8,
+      "productName": "Samsung Watch pro",
+      "categoryId": "1",
+      "description": "Noise ColorFit Caliber Go with 1.69 inch HD Display, 40 Sports Modes, 150+ Watch Faces Smartwatch  (Black Strap, Regular)",
+      "price": "2000",
+      "isAvailable": "Yes",
+      "productImage": "https://i.postimg.cc/Z5TDjcPS/inbase-urban-fit-s-1664703669.jpg",
+      "rating": "3.8",
+      "review": "Best of the brand like Noise ",
+      "vendorName": "SVPeripherals",
+      "warrenty": "1 Year"
+    },
+    {
+      "id": 9,
+      "productName": "Xiomi Note",
+      "categoryId": "1",
+      "description": "Noise ColorFit Caliber Go with 1.69 inch HD Display, 40 Sports Modes, 150+ Watch Faces Smartwatch  (Black Strap, Regular)",
+      "price": "2000",
+      "isAvailable": "Yes",
+      "productImage": "https://i.postimg.cc/Z5TDjcPS/inbase-urban-fit-s-1664703669.jpg",
+      "rating": "3.8",
+      "review": "Best of the brand like Noise ",
+      "vendorName": "SVPeripherals",
+      "warrenty": "1 Year"
+    },
+    {
+      "id": 10,
+      "productName": "Noise",
+      "categoryId": "1",
+      "description": "Noise ColorFit Caliber Go with 1.69 inch HD Display, 40 Sports Modes, 150+ Watch Faces Smartwatch  (Black Strap, Regular)",
+      "price": "2000",
+      "isAvailable": "Yes",
+      "productImage": "https://i.postimg.cc/Z5TDjcPS/inbase-urban-fit-s-1664703669.jpg",
+      "rating": "3.8",
+      "review": "Best of the brand like Noise ",
+      "vendorName": "SVPeripherals",
+      "warrenty": "1 Year"
+    },
+    {
+      "id": 11,
+      "productName": "Noise",
+      "categoryId": "1",
+      "description": "Noise ColorFit Caliber Go with 1.69 inch HD Display, 40 Sports Modes, 150+ Watch Faces Smartwatch  (Black Strap, Regular)",
+      "price": "2000",
+      "isAvailable": "Yes",
+      "productImage": "https://i.postimg.cc/Z5TDjcPS/inbase-urban-fit-s-1664703669.jpg",
+      "rating": "3.8",
+      "review": "Best of the brand like Noise ",
+      "vendorName": "SVPeripherals",
+      "warrenty": "1 Year"
+    },
+    {
+      "id": 12,
+      "productName": "Noise",
+      "categoryId": "1",
+      "description": "Noise ColorFit Caliber Go with 1.69 inch HD Display, 40 Sports Modes, 150+ Watch Faces Smartwatch  (Black Strap, Regular)",
+      "price": "2000",
+      "isAvailable": "Yes",
+      "productImage": "https://i.postimg.cc/Z5TDjcPS/inbase-urban-fit-s-1664703669.jpg",
+      "rating": "3.8",
+      "review": "Best of the brand like Noise ",
+      "vendorName": "SVPeripherals",
+      "warrenty": "1 Year"
+    },
+    {
+      "id": 13,
+      "productName": "vivo V27 5G",
+      "categoryId": "3",
+      "description": "he Vivo V27 5G smartphone features a wide 3D curved display so that you can experience immersive viewing",
+      "price": "2000",
+      "isAvailable": "Yes",
+      "productImage": "https://i.postimg.cc/pLT8WZbr/original-imagna3eswgyntzw-1.webp",
+      "rating": "3.8",
+      "review": "Best deals ",
+      "vendorName": "Flashstar Commerce",
+      "warrenty": "1 Year"
+    },
+    {
+      "id": 14,
+      "productName": "Infinix HOT 30i",
+      "categoryId": "3",
+      "description": "The Infinix HOT 30i has a large storage capacity of about 128 GB to store all your data. It has a RAM of up to 16 GB for fast processing",
+      "price": "20000",
+      "isAvailable": "Yes",
+      "productImage": "https://i.postimg.cc/63Bmqg9n/original-imagz3cuzzsyh8ud.webp",
+      "rating": "3.8",
+      "review": "Best of the infinix ",
+      "vendorName": "SVPeripherals",
+      "warrenty": "1 Year"
+    },
+    {
+      "id": 15,
+      "productName": "brother DCP-T426W Multi-function WiFi ",
+      "categoryId": "2",
+      "description": "Whether it's a brochure, a document, or any other printable item, the brother DCP-T426W Printer can deliver fast and efficient printing results",
+      "price": "8000",
+      "isAvailable": "Yes",
+      "productImage": "https://i.postimg.cc/WpCwfCQ8/dcp-t426w-brother-original-imagf37kyz3mavub.webp",
+      "rating": "3.8",
+      "review": "Best of the brand  ",
+      "vendorName": "fuals",
+      "warrenty": "1 Year"
+    },
+    {
+      "id": 16,
+      "productName": "HP DeskJet 1212 Single Function Color Inkjet Printer",
+      "categoryId": "2",
+      "description": "Experience reliable and high-quality performance with this HP printer. Thanks to its original HP ink cartridges, this printer will give you crisp texts with brilliant colors. You can also download the HP Smart App to use its plug and play feature.",
+      "price": "14000",
+      "isAvailable": "Yes",
+      "productImage": "https://i.postimg.cc/JnQvCr5X/original-imagnuwewu5arfpu.webp",
+      "rating": "3.8",
+      "review": "Best of the brand like Noise ",
+      "vendorName": "SVPeripherals",
+      "warrenty": "1 Year"
+    },
+    
+    
+    
+    
+    
+    
+    
+    {
+      "id": "56",
+      "productName": "asaad",
+      "categoryId": "23",
+      "description": "afshgjjh",
+      "price": "45",
+      "isAvailable": "True",
+      "productImage": "https://i.postimg.cc/T1brY3R3/71-SOVSFTVBL-UY550.jpg",
+      "rating": "assklhk;",
+      "review": "adssfd",
+      "vendorName": "344",
+      "warrenty": "45"
+    }
+  ]
+}
